@@ -1,0 +1,44 @@
+body{
+	height: 94vh;
+	width: 100%;
+	align-content: center;
+	justify-content: center;
+	box-sizing: border-box;
+}
+form{
+	width: fit-content;
+}
+table{
+	border-collapse: collapse;
+}
+tr{
+}
+td{
+	padding: 5px;
+}
+fieldset{
+	border-radius: 8px;
+	padding: 10px;
+	background-color: purple;
+}
+legend{
+	background-color: plum;
+	padding: 0 5px;
+	border-radius: 3px;
+}
+lable, label{
+	color: white;
+}
+#login_btn, #sign_btn{
+	padding: 5px 15px;
+	border-radius: 8px;
+	border: none;
+	background-color: plum;
+}
+span{
+	color: white;
+}
+.signin_a, .login_a{
+	text-decoration: none;
+	color: yellow;
+}
